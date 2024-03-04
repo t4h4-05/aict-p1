@@ -1,0 +1,19 @@
+#body{
+    background-color: black;
+    color: aliceblue;
+}
+#item{
+    margin-right: 100px;
+    margin-left: 100px;
+    color:whitesmoke;
+    background-color: black;
+    width: 20px;
+    height: fit-content;
+    image-resolution: 13;
+}
+#imgs{
+    width: 125px;
+    height: 125px;    
+    
+    
+}
